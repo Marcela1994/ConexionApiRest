@@ -1,0 +1,5 @@
+C:\Users\deisy\source\repos\WindowsFormsApp1\ClassConexionDB\obj\Debug\ClassConexionDB.csproj.CoreCompileInputs.cache
+C:\Users\deisy\source\repos\WindowsFormsApp1\ClassConexionDB\bin\Debug\ClassConexionDB.dll
+C:\Users\deisy\source\repos\WindowsFormsApp1\ClassConexionDB\bin\Debug\ClassConexionDB.pdb
+C:\Users\deisy\source\repos\WindowsFormsApp1\ClassConexionDB\obj\Debug\ClassConexionDB.dll
+C:\Users\deisy\source\repos\WindowsFormsApp1\ClassConexionDB\obj\Debug\ClassConexionDB.pdb
